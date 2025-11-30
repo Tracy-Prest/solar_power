@@ -1,3 +1,5 @@
+SOLAR POWER PERFORMANCE ANALYSIS
+
 As solar energy adoption grows worldwide, understanding how well a photovoltaic (PV) system performs is essential for:
 
 - Identifying system inefficiencies and faults
